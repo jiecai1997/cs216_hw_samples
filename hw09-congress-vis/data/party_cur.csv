@@ -1,0 +1,57 @@
+state ,democrat,republican,partyScale,fillKey
+AK,0,3,-1,Heavy Republican
+AL,1,8,-0.777777778,Heavy Republican
+AR,0,6,-1,Heavy Republican
+AS,0,1,-1,Heavy Republican
+AZ,4,7,-0.272727273,Slight Republican
+CA,41,14,0.490909091,Slight Democrat
+CO,4,5,-0.111111111,Slight Republican
+CT,7,0,1,Heavy Democrat
+DC,1,0,1,Heavy Democrat
+DE,3,0,1,Heavy Democrat
+FL,12,17,-0.172413793,Slight Republican
+GA,4,12,-0.5,Republican
+GU,1,0,1,Heavy Democrat
+HI,4,0,1,Heavy Democrat
+IA,1,5,-0.666666667,Republican
+ID,0,4,-1,Heavy Republican
+IL,13,7,0.3,Slight Democrat
+IN,3,8,-0.454545455,Republican
+KS,0,6,-1,Heavy Republican
+KY,1,7,-0.75,Heavy Republican
+LA,1,7,-0.75,Heavy Republican
+MA,11,0,1,Heavy Democrat
+MD,9,1,0.8,Heavy Democrat
+ME,1,2,-0.333333333,Slight Republican
+MI,7,9,-0.125,Slight Republican
+MN,7,3,0.4,Slight Democrat
+MO,3,7,-0.4,Slight Republican
+MP,1,0,1,Heavy Democrat
+MS,1,5,-0.666666667,Republican
+MT,1,2,-0.333333333,Slight Republican
+NC,3,12,-0.6,Republican
+ND,1,2,-0.333333333,Slight Republican
+NE,0,5,-1,Heavy Republican
+NH,4,0,1,Heavy Democrat
+NJ,9,5,0.285714286,Slight Democrat
+NM,4,1,0.6,Slight Democrat
+NV,4,2,0.333333333,Slight Democrat
+NY,20,9,0.379310345,Slight Democrat
+OH,5,13,-0.444444444,Republican
+OK,0,7,-1,Heavy Republican
+OR,6,1,0.714285714,Heavy Democrat
+PA,6,14,-0.4,Slight Republican
+PR,0,1,-1,Heavy Republican
+RI,4,0,1,Heavy Democrat
+SC,1,8,-0.777777778,Heavy Republican
+SD,0,3,-1,Heavy Republican
+TN,2,9,-0.636363636,Republican
+TX,11,27,-0.421052632,Republican
+UT,0,5,-1,Heavy Republican
+VA,6,7,-0.076923077,Neutral
+VI,1,0,1,Heavy Democrat
+VT,2,0,1,Heavy Democrat
+WA,8,4,0.333333333,Slight Democrat
+WI,4,6,-0.2,Slight Republican
+WV,1,4,-0.6,Republican
+WY,0,3,-1,Heavy Republican

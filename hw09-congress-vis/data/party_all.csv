@@ -1,0 +1,58 @@
+state ,democrat,republican,partyScale,fillKey
+AK,27,53,-0.325,Heavy Republican
+AL,648,150,0.62406015,Slight Democrat
+AR,433,65,0.738955823,Heavy Democrat
+AS,17,2,0.789473684,Heavy Democrat
+AZ,125,129,-0.015748031,Neutral
+CA,1119,933,0.090643275,Neutral
+CO,167,189,-0.061797753,Neutral
+CT,245,283,-0.071969697,Neutral
+DC,24,2,0.846153846,Heavy Democrat
+DE,81,73,0.051948052,Neutral
+DK,4,11,-0.466666667,Republican
+FL,502,313,0.23190184,Slight Democrat
+GA,816,240,0.545454545,Slight Democrat
+GU,19,4,0.652173913,Slight Democrat
+HI,85,32,0.452991453,Slight Democrat
+IA,149,584,-0.593451569,Republican
+ID,50,132,-0.450549451,Republican
+IL,878,1061,-0.094378546,Neutral
+IN,526,556,-0.027726433,Neutral
+KS,76,424,-0.696,Republican
+KY,602,340,0.278131635,Slight Democrat
+LA,549,144,0.584415584,Slight Democrat
+MA,495,741,-0.199029126,Slight Republican
+MD,456,265,0.264909847,Slight Democrat
+ME,112,295,-0.44963145,Republican
+MI,451,797,-0.27724359,Slight Republican
+MN,213,423,-0.330188679,Slight Republican
+MO,757,319,0.407063197,Slight Democrat
+MP,4,0,1,Heavy Democrat
+MS,507,89,0.701342282,Heavy Democrat
+MT,105,63,0.25,Slight Democrat
+NC,735,375,0.324324324,Slight Democrat
+ND,39,129,-0.535714286,Republican
+NE,85,270,-0.521126761,Republican
+NH,86,244,-0.478787879,Republican
+NJ,483,628,-0.130513051,Slight Republican
+NM,106,81,0.13368984,Slight Democrat
+NV,88,81,0.041420118,Neutral
+NY,1793,1719,0.021070615,Neutral
+OH,795,1179,-0.194528875,Slight Republican
+OK,279,150,0.300699301,Slight Democrat
+OR,157,178,-0.062686567,Neutral
+PA,993,1789,-0.28612509,Slight Republican
+PR,9,5,0.285714286,Slight Democrat
+RI,128,136,-0.03030303,Neutral
+SC,534,253,0.357052097,Slight Democrat
+SD,40,132,-0.534883721,Republican
+TN,607,327,0.299785867,Slight Democrat
+TX,1300,344,0.581508516,Slight Democrat
+UT,76,123,-0.236180905,Slight Republican
+VA,751,558,0.147440794,Slight Democrat
+VI,21,1,0.909090909,Heavy Democrat
+VT,23,224,-0.813765182,Heavy Republican
+WA,244,231,0.027368421,Neutral
+WI,267,532,-0.331664581,Slight Republican
+WV,268,149,0.285371703,Slight Democrat
+WY,30,98,-0.53125,Republican
